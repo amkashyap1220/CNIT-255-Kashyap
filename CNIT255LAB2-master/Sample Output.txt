@@ -1,0 +1,180 @@
+*************************************************
+	The following is a sample menu
+*************************************************
+
+Please enter any text: I love racecars
+-----------------------
+1. Is Palindrome
+2. Find all palindromes
+3. Search a text
+4. Remove a text
+5. Add a text
+6. Reverse the text
+7. Reverse each word
+8. Print the text
+-----------------------
+9. Change the input text
+10. Quit the program
+
+Please enter your choice number: 1
+
+Result: 'I love racecars' IS NOT a palindrome
+
+-----------------------
+1. Is Palindrome
+2. Find all palindromes
+3. Search a text
+4. Remove a text
+5. Add a text
+6. Reverse the text
+7. Reverse each word
+8. Print the text
+-----------------------
+9. Change the input text
+10. Quit the program
+
+Please enter your choice number: 2
+
+Result: racecar, cec, aceca
+
+-----------------------
+1. Is Palindrome
+2. Find all palindromes
+3. Search a text
+4. Remove a text
+5. Add a text
+6. Reverse the text
+7. Reverse each word
+8. Print the text
+-----------------------
+9. Change the input text
+10. Quit the program
+
+Please enter your choice number: 3
+What to search? c
+
+Result: 'c' found at locations 9, 11
+
+-----------------------
+1. Is Palindrome
+2. Find all palindromes
+3. Search a text
+4. Remove a text
+5. Add a text
+6. Reverse the text
+7. Reverse each word
+8. Print the text
+-----------------------
+9. Change the input text
+10. Quit the program
+
+Please enter your choice number: 4
+What to remove? my
+
+Result: my was not found
+
+-----------------------
+1. Is Palindrome
+2. Find all palindromes
+3. Search a text
+4. Remove a text
+5. Add a text
+6. Reverse the text
+7. Reverse each word
+8. Print the text
+-----------------------
+9. Change the input text
+10. Quit the program
+
+Please enter your choice number: 5
+What to add? my 
+Where to add 'my '? 7
+
+Result: I love my racecars
+
+-----------------------
+1. Is Palindrome
+2. Find all palindromes
+3. Search a text
+4. Remove a text
+5. Add a text
+6. Reverse the text
+7. Reverse each word
+8. Print the text
+-----------------------
+9. Change the input text
+10. Quit the program
+
+Please enter your choice number: 6
+
+Result: sracecar evol I
+
+-----------------------
+1. Is Palindrome
+2. Find all palindromes
+3. Search a text
+4. Remove a text
+5. Add a text
+6. Reverse the text
+7. Reverse each word
+8. Print the text
+-----------------------
+9. Change the input text
+10. Quit the program
+
+Please enter your choice number: 7
+
+Result: I evol sracecar
+
+-----------------------
+1. Is Palindrome
+2. Find all palindromes
+3. Search a text
+4. Remove a text
+5. Add a text
+6. Reverse the text
+7. Reverse each word
+8. Print the text
+-----------------------
+9. Change the input text
+10. Quit the program
+
+Please enter your choice number: 9
+Please enter the new text? I love Java
+
+Result: Input changed successfully!
+
+-----------------------
+1. Is Palindrome
+2. Find all palindromes
+3. Search a text
+4. Remove a text
+5. Add a text
+6. Reverse the text
+7. Reverse each word
+8. Print the text
+-----------------------
+9. Change the input text
+10. Quit the program
+
+Please enter your choice number: 8
+Result: I love Java
+
+-----------------------
+1. Is Palindrome
+2. Find all palindromes
+3. Search a text
+4. Remove a text
+5. Add a text
+6. Reverse the text
+7. Reverse each word
+8. Print the text
+-----------------------
+9. Change the input text
+10. Quit the program
+
+Please enter your choice number: 10
+
+*******************************************
+	        BYE BYE!
+*******************************************
